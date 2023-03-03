@@ -1,0 +1,547 @@
+@media( min-width:1350px){
+    .fillter {
+        width: 0rem;
+    }
+    .card-filter{
+        max-width: 20rem
+    }
+    .container-fluid{
+        background-color: #490E66;
+        max-width: 100%;
+    }
+    .search {
+        padding-top: 0rem;
+        padding-bottom: 1rem;
+    }
+    .contern{
+        padding-right: 10rem;
+        padding-left: 10rem;
+        padding-top: 0rem;
+    }
+    .second-card{
+        margin-right: 3rem;
+        width: 18rem
+     }
+     .second-card{
+        margin-right: 2rem;
+        width: 20rem
+     }
+     .contact-US{
+        border-radius: 1rem;
+        margin: 2rem 1rem;
+        width: 35rem;
+      
+    }
+    .map-card{
+        width: 35rem; 
+        border-radius: 1rem;
+        margin-right: 7rem;
+    }
+    .time {
+        padding-right: 7rem;
+        font-family: Cairo-Regular;
+        font-size: 18px;
+    }
+    .avaliable-time {
+        padding-right: 2rem;
+        font-family: Poppins-SemiBold;
+        font-size: 22px;
+    }
+    .location {
+        padding-right: 9.7rem;
+        font-family: Cairo-Regular;
+        font-size: 18px;
+    }
+    .evaluat {
+        padding-right: 9.8rem;
+        font-family: Cairo-Regular;
+        /* color: cyan; */
+        font-size: 16px;
+    }
+    .dollar {
+        padding-right: 7.5rem;
+        font-family: Cairo-Regular;
+        font-size: 20px;
+    }
+    .dol-cost {
+        padding-right: 9.2rem;
+        font-family: Cairo-Regular;
+        font-size: 20px;
+    }
+    .emails .mails {
+        padding-right: 2rem;
+        font-family: Poppins-SemiBold;
+        font-size: 20px;
+    }
+    .emails .codee {
+        padding-right: 5rem;
+        font-family: Cairo-Regular;
+        font-size: 18px;
+    }
+    .emails .phone-No {
+        padding-right: 7rem;
+        font-family: Cairo-Regular;
+        font-size: 18px;
+    }
+    .book {
+        padding: 0.5rem;
+        width: 90%;
+        background-color: #3CC5C0;
+        color: #490E66;
+        border-radius: 0.2rem;
+        border: none;
+        font-family: Cairo-Regular;
+        font-size: 16px;
+        margin-bottom: 1rem;
+       
+    }
+    .region {
+        padding: 0.5rem 9rem;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        background-color: #3CC5C0;
+        color: #490E66;
+        border-radius: 0.7rem;
+        border: none;
+        margin-top: 1rem;
+        font-family: Cairo-Regular;
+        font-size: 16px;
+        margin-top: 1rem;
+        /* margin: auto; */
+    }
+    .map-card img {
+        height: 24.8rem;
+    }
+    .card-head-detailes{
+        font-family:Cairo-Bold ;
+        font-size: 18px;
+        color: #490E66;
+        padding: .5rem ;
+        margin-bottom: 1rem;
+        text-align: center;
+        border: rgb(212, 212, 212) solid;
+        border-width: 1px;
+        border-radius: .8rem;
+    }
+    .table{
+        padding: 3rem 10rem;
+    }
+    .lamis{
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+    }
+    .description h3{
+        font-family:Cairo-Bold ;
+        font-size: 16px;
+    }
+    .description span{
+        font-family:Cairo-Regular ;
+        font-size: 14px; 
+    }
+}
+@media(max-width:1000px){
+    .container-fluid{
+        background-color: #490E66;
+    
+    }
+    .dispalay {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+    .contact-US{
+        border-radius: 1rem;
+        margin: 2rem 1rem;
+        width: 25rem;
+        margin-right: 7rem;
+      
+    }
+    .map-card{
+        width: 25rem; 
+        border-radius: 1rem;
+        margin-right: 7rem;
+    }
+    .time {
+        padding-right: 2rem;
+        font-family: Cairo-Regular;
+        font-size: 14px;
+    }
+    .avaliable-time {
+        padding-right: 1rem;
+        font-family: Poppins-SemiBold;
+        font-size: 19px;
+    }
+    .location {
+        padding-right: 4.3rem;
+        font-family: Cairo-Regular;
+        font-size: 14px;
+    }
+    .evaluat {
+        padding-right: 4.4rem;
+        font-family: Cairo-Regular;
+        font-size: 13px;
+    }
+    .dollar {
+        padding-right: 2.5rem;
+        font-family: Cairo-Regular;
+        font-size: 18px;
+    }
+    .dol-cost {
+        padding-right: 4.2rem;
+        font-family: Cairo-Regular;
+        font-size: 18px;
+    }
+    .emails .mails {
+        padding-right: 1rem;
+        font-family: Poppins-SemiBold;
+        font-size: 16px;
+    }
+    .emails .codee {
+        padding-right: 2rem;
+        font-family: Cairo-Regular;
+        font-size: 14px;
+    }
+    .emails .phone-No {
+        padding-right: 4rem;
+        font-family: Cairo-Regular;
+        font-size: 14px;
+    }
+    .lamis {
+        width: 4rem;
+        height: 4rem;
+        border-radius: 50%;
+    }
+    .description h3 {
+        font-family: Cairo-Bold;
+        font-size: 14px;
+    }
+    .description span {
+        font-family: Cairo-Regular;
+        font-size: 12px;
+    }
+    .table{
+        padding: 3rem 2rem;
+    }
+    .wedding-photo {
+        height: 80vh;
+    }
+}
+@media(max-width:700px){
+    .item-category{
+        display: block;
+        padding-right:4rem;
+    }
+    .fist-boxes {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+    .category{
+        padding-right: 0rem;
+        padding-top: 5.3rem;
+    }
+    .second-boxes {
+        display: flex;
+        padding-top: 2rem;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+    .cardds .evaluation {
+        padding-right: 7rem;
+        font-family: Poppins-SemiBold;
+        font-size: 15px;
+        color: rgb(73, 14, 102);
+    }
+    .icons {
+    padding-right: 6rem;
+    padding-top: .5rem;
+}
+.icons-2{
+    padding-right: 6rem;
+    padding-top: .5rem; 
+    color: #490E66;
+}
+
+    .cardds{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        display: flex;
+    }
+    .category {
+        padding-right: 0rem;
+        padding-top: 5.3rem;
+    }
+    .second-card{
+        margin-right: 0rem;
+        margin-top: 2rem;
+     }
+     .navbar-toggler:hover {
+        text-decoration: none;
+        box-shadow: none;
+        border-color: #ffffff;
+    }
+    .navbar-toggler  {
+        border: none;
+        border-color: #ffffff;
+    }
+    .navbar-toggler-icon{
+        color: #ffffff;
+        border: none;
+    }
+    .fillter {
+        display: none;
+    }
+    .icons{
+        padding-right: 5rem;
+        padding-top: .5rem;
+    }
+    .iconss{
+        padding-right: 5rem;
+        padding-top: .5rem;
+    }
+    .dispalay{
+        display: block;
+        
+        align-items: center;
+        justify-content: center;
+    
+    }
+}
+@media(max-width:400px){
+    .item-category{
+        display: block;
+        padding-right:0rem;
+    }
+    .fist-boxes{
+        display: block;
+    }
+    .second-boxes{
+        display: block;
+        padding-top: 2rem;
+    }
+    .cardds{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        display: flex;
+    }
+    .category {
+        padding-right: 0rem;
+        padding-top: 5.3rem;
+    }
+     .navbar-toggler:hover {
+        text-decoration: none;
+        box-shadow: none;
+        border-color: #ffffff;
+    }
+    .navbar-toggler  {
+        border: none;
+        border-color: #ffffff;
+    }
+    .navbar-toggler-icon{
+        color: #ffffff;
+        border: none;
+    }
+    .fillter {
+        display: none;
+    }
+    .one-card-box{
+        width: 16rem
+    }
+    .fillter{
+        width: 16rem;
+    }
+    .second-card{
+        margin-right: 0rem;
+        margin-top: 2rem;
+            width: 16rem
+     }
+     .studio {
+        font-family: Cairo-Bold;
+        font-size: 18px;
+        color: #490E66;
+    }
+    .icon {
+        padding-right: 4rem;
+        padding-top: 0rem;
+    }
+    .cardds .evaluation {
+        padding-right: 3.4rem;
+        font-family: Poppins-SemiBold;
+        font-size: 12px;
+    }
+    .details {
+        background-color: #3DD1CD;
+        padding: 0.3rem 0.5rem;
+        border: none;
+        border-radius: 5px;
+    }
+    .details a {
+        text-decoration: none;
+        color: #490E66;
+        font-family: Cairo-Regular;
+        font-size: 14px;
+        text-align: center;
+    }
+    .cost {
+        padding-right: 6.2rem;
+        font-family: Poppins-SemiBold;
+        font-size: 15px;
+    }
+    .text{
+        font-size: 40px;
+        top: 40%;
+        font-family: cairo-Regular;
+    }
+    .navbar-toggler-icon {
+        color: #ffffff;
+        border: none;
+    }
+    .login{
+        display: block;
+    }
+    .table{
+        padding: 3rem 0rem;
+    }
+    .contact-US{
+        border-radius: 1rem;
+        margin: 2rem 0rem;
+        width: 16rem;
+        margin-right: 0rem;
+      
+    }
+    /* .map-card{
+        width: 16rem; 
+        border-radius: 1rem;
+        margin-right: 0rem;
+    } */
+    .map-card {
+        width: 16rem;
+        border-radius: 1rem;
+        margin-right: 0rem;
+    }
+    .all {
+        padding-right: 0.5rem;
+    }
+    .avaliable-time {
+        padding-right: 0.5rem;
+        font-family: Poppins-SemiBold;
+        font-size: 12px;
+    }
+    .time {
+        padding-right: 2rem;
+        font-family: Cairo-Regular;
+        font-size: 9px;
+    }
+    .location {
+        padding-right: 3.6rem;
+        font-family: Cairo-Regular;
+        font-size: 9px;
+    }
+    .evaluat {
+        padding-right: 3.9rem;
+        font-family: Cairo-Regular;
+        font-size: 7px;
+    }
+    .dollar {
+        padding-right: 2.5rem;
+        font-family: Cairo-Regular;
+        font-size: 11px;
+    }
+    .dol-cost {
+        padding-right: 3.7rem;
+        font-family: Cairo-Regular;
+        font-size: 11px;
+    }
+    .contact {
+        font-family: Cairo-Bold;
+        font-size: 14px;
+        color: #490E66;
+        padding-right: 2rem;
+        padding-bottom: 1rem;
+    }
+    .emails .mails {
+        padding-right: 0.5rem;
+        font-family: Poppins-SemiBold;
+        font-size: 12px;
+    }
+    .emails .codee {
+        padding-right: 1rem;
+        font-family: Cairo-Regular;
+        font-size: 10px;
+    }
+    .emails .phone-No {
+        padding-right: 2.4rem;
+        font-family: Cairo-Regular;
+        font-size: 10px;
+    }
+    .componant i{
+        font-size: 10px;
+    }
+    .emails i{font-size: 10px;}
+    .book {
+        padding: 0.5rem;
+        width: 90%;
+        background-color: #3CC5C0;
+        color: #490E66;
+        border-radius: 0.2rem;
+        border: none;
+        font-family: Cairo-Regular;
+        font-size: 12px;
+        margin-bottom: 1rem;
+       
+    }
+    .dispalay{
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+    .region {
+        padding: 0.5rem 0rem;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        background-color: #3CC5C0;
+        color: #490E66;
+        border-radius: 0.7rem;
+        border: none;
+        margin-top: 1rem;
+        font-family: Cairo-Regular;
+        font-size: 12px;
+        margin-top: 1rem;
+    }
+    .map-card img {
+        height: 16rem;
+    }
+    .wedding-photo {
+        height: 50vh;
+    }
+    .description span {
+        font-family: Cairo-Regular;
+        font-size: 10px;
+    }
+    .description h3 {
+        font-family: Cairo-Bold;
+        font-size: 12px;
+    }
+    .three-carosl{
+        top: 44%;
+    }
+    .prev{
+        top: -55%;
+    }
+    .icons {
+        padding-right: 6rem;
+        padding-top: .5rem;
+    }
+    .icons-2{
+        padding-right: 4rem;
+        padding-top: .5rem; 
+        color: #490E66;
+    }
+}
